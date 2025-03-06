@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hakim-emas.github.io/orang/Membela-Harga-Diri-di-Yakuza-Honor-:-Perjalanan-Seorang-Samurai-Urban-Hakim4d.html/sitemap.xml
